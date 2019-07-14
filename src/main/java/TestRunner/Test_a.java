@@ -6,7 +6,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)				
 @CucumberOptions(features="Features",glue={"pages"})						
-public class Runner 				
+public class Test_a 				
 {		
 
 }
