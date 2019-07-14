@@ -13,5 +13,5 @@ Examples:
 
 |username    |password      |		
 |nanda       |qwerty        |		
-|jibin       |qwerty        |		
+|AS          |qwerty        |		
 |kishore     |qwerty        |
